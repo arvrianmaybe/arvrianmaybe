@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey! Im viper, commonly known as rune. Im a student who codes for fun.<br><br>🔭 I’m currently working on<br>👯 I’m looking to collaborate on Your Overwatch Projects.<br>🤝 I’m looking for help with coding in general..<br>🌱 I’m currently learning Python, Java and C#
+Hey! Im viper, commonly known as rune. Im a student who codes for fun.<br><br>🔭 I’m currently working on Overwatch Projects <br>👯 I’m looking to collaborate on Your Overwatch Projects.<br>🤝 I’m looking for help with coding in general..<br>🌱 I’m currently learning Python, Java and C#
 
 
 ## 🌐 Socials:
