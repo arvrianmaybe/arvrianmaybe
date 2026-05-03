@@ -9,7 +9,7 @@ Professional Java & Kotlin ~Skid~ Programmer.
 [![Steam](https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white)](https://steamcommunity.com/id/marisasex)
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/frqsrd)
 
-## Programming Languages
+## 👨‍💻 Programming Languages
 
 [<img height="26" src="https://shields.io/badge/Java-ED8B00.svg?style=flat-square&logo=openjdk&logoColor=FFFFFF"/>](https://wikipedia.org/wiki/Java_(programming_language))
 [<img height="26" src="https://shields.io/badge/Kotlin-7F52FF.svg?style=flat-square&logo=kotlin&logoColor=FFFFFF"/>](https://wikipedia.org/wiki/Kotlin_(programming_language))
