@@ -2,7 +2,7 @@
 
 Professional Java & Kotlin ~Skid~ Programmer.
 
-[![arvrian's Count](https://count.getloli.com/@arvrianmaybe?name=nep-timeline&theme=booru-jaypee&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)](https://github.com/arvrianmaybe)
+[![arvrian's Count](https://count.getloli.com/@arvrianmaybe?name=arvrianmaybe&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)](https://github.com/arvrianmaybe)
 
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@arvriann)
