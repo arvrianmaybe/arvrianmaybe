@@ -1,7 +1,7 @@
 ## Sup Nerds 
 
-Backend Java & Kotlin ~Skid~ Programmer.
-Most of my Projects are private, Probably release one soon.
+Backend Java & Kotlin ~Skid~ Programmer. <br />
+Most of my Projects are private, Probably release one soon. <br />
 
 [![arvrian's Count](https://count.getloli.com/@arvrianmaybe?name=arvrianmaybe&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)](https://github.com/arvrianmaybe)
 
