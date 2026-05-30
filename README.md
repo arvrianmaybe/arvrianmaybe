@@ -1,7 +1,16 @@
-## Sup Nerds 
+## sup nerds
 
-Backend Java & Kotlin ~Skid~ Programmer. <br />
-Most of my Projects are private, Probably release one soon. <br />
+```txt
+viper / arvrian / rune
+
+self-taught backened java & kotlin programmer
+learned most of my skills through other projects and forking it
+& figuring things out on my own
+
+most of my projects are private
+due to my bad code and still learning
+my old ow projects that made me get into coding are still here though.
+```
 
 [![arvrian's Count](https://count.getloli.com/@arvrianmaybe?name=arvrianmaybe&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)](https://github.com/arvrianmaybe)
 
